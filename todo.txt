@@ -1,0 +1,34 @@
+-- Features --
+
+- Toggle card display mode eg. render by rarity (Sorting)
+- Fix favicon
+- Split horizontal and vertical scaling
+- Find nicer font(s)
+- Different mouse pointer
+- Make nicer loading screen
+
+- Make color tone for selected cards depending on class color?
+- Make it possible to put a card below others
+- Limit number of cards placed - depending on type
+- Card board - draw summary of placed cards
+- Double click remove card
+- Removed card ends up in the end of list
+
+NEXT!!!
+1 Card tooltip (draw outside of deckboard)
+- Make user able to scale placed cards
+  - Write button class
+
+-- Maintanence -- 
+
+- Add Utils file...cleanup etc...(clamp)
+- Import all cards
+- Connect to GIT
+- Prerender outline images, save as images
+- Where in panel (what index) to add card when they have been in the middle?? sorting...
+- Write small tool that handles all image manipulations amnd saves them properly
+
+-- Bugs --
+
+- Scrollbar not perfectly aligned to whole list
+- If window is too small it bugs out

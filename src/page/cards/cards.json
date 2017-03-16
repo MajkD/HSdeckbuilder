@@ -1,0 +1,1192 @@
+{
+ "cardData": [
+  {
+   "name": "Varian Wrynn",
+   "cost": 10,
+   "type": "Minion",
+   "class": "Warrior",
+   "attack": 7,
+   "health": 7,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Aviana",
+   "cost": 9,
+   "type": "Minion",
+   "class": "Druid",
+   "attack": 5,
+   "health": 5,
+   "rarity": "legendary"
+  },
+  {
+   "name": "North Sea Kraken",
+   "cost": 9,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 9,
+   "health": 7,
+   "rarity": "common"
+  },
+  {
+   "name": "Acidmaw",
+   "cost": 7,
+   "type": "Minion",
+   "class": "Hunter",
+   "attack": 4,
+   "health": 2,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Chillmaw",
+   "cost": 7,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 6,
+   "health": 6,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Eadric the Pure",
+   "cost": 7,
+   "type": "Minion",
+   "class": "Paladin",
+   "attack": 3,
+   "health": 7,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Knight of the Wild",
+   "cost": 7,
+   "type": "Minion",
+   "class": "Druid",
+   "attack": 6,
+   "health": 6,
+   "rarity": "rare"
+  },
+  {
+   "name": "Ball of Spiders",
+   "cost": 6,
+   "type": "Ability",
+   "class": "Hunter",
+   "attack": 0,
+   "health": 0,
+   "rarity": "rare"
+  },
+  {
+   "name": "Enter the Coliseum",
+   "cost": 6,
+   "type": "Ability",
+   "class": "Paladin",
+   "attack": 0,
+   "health": 0,
+   "rarity": "epic"
+  },
+  {
+   "name": "Coldarra Drake",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Mage",
+   "attack": 6,
+   "health": 6,
+   "rarity": "epic"
+  },
+  {
+   "name": "Justicar Trueheart",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 6,
+   "health": 3,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Master Jouster",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 5,
+   "health": 6,
+   "rarity": "rare"
+  },
+  {
+   "name": "Mysterious Challenger",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Paladin",
+   "attack": 6,
+   "health": 6,
+   "rarity": "epic"
+  },
+  {
+   "name": "Sideshow Spelleater",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 6,
+   "health": 5,
+   "rarity": "epic"
+  },
+  {
+   "name": "The Skeleton Knight",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 7,
+   "health": 4,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Wilfred Fizzlebang",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Warlock",
+   "attack": 4,
+   "health": 4,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Clockwork Knight",
+   "cost": 5,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 5,
+   "health": 5,
+   "rarity": "common"
+  },
+  {
+   "name": "Mukla's Champion",
+   "cost": 5,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 4,
+   "health": 3,
+   "rarity": "common"
+  },
+  {
+   "name": "Pit Fighter",
+   "cost": 5,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 5,
+   "health": 6,
+   "rarity": "common"
+  },
+  {
+   "name": "Recruiter",
+   "cost": 5,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 5,
+   "health": 4,
+   "rarity": "epic"
+  },
+  {
+   "name": "Thunder Bluff Valiant",
+   "cost": 5,
+   "type": "Minion",
+   "class": "Shaman",
+   "attack": 3,
+   "health": 6,
+   "rarity": "rare"
+  },
+  {
+   "name": "Charged Hammer",
+   "cost": 4,
+   "type": "Weapon",
+   "class": "Shaman",
+   "attack": 2,
+   "health": 4,
+   "rarity": "epic"
+  },
+  {
+   "name": "Astral Communion",
+   "cost": 4,
+   "type": "Ability",
+   "class": "Druid",
+   "attack": 0,
+   "health": 0,
+   "rarity": "epic"
+  },
+  {
+   "name": "Armored Warhorse",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 5,
+   "health": 3,
+   "rarity": "rare"
+  },
+  {
+   "name": "Dalaran Aspirant",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Mage",
+   "attack": 3,
+   "health": 5,
+   "rarity": "common"
+  },
+  {
+   "name": "Dreadsteed",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Warlock",
+   "attack": 1,
+   "health": 1,
+   "rarity": "epic"
+  },
+  {
+   "name": "Frigid Snobold",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 6,
+   "rarity": "common"
+  },
+  {
+   "name": "Holy Champion",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Priest",
+   "attack": 3,
+   "health": 5,
+   "rarity": "common"
+  },
+  {
+   "name": "Maiden of the Lake",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 6,
+   "rarity": "common"
+  },
+  {
+   "name": "Refreshment Vendor",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 3,
+   "health": 5,
+   "rarity": "common"
+  },
+  {
+   "name": "Spawn of Shadows",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Priest",
+   "attack": 5,
+   "health": 4,
+   "rarity": "rare"
+  },
+  {
+   "name": "Twilight Guardian",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 6,
+   "rarity": "epic"
+  },
+  {
+   "name": "King's Defender",
+   "cost": 3,
+   "type": "Weapon",
+   "class": "Warrior",
+   "attack": 3,
+   "health": 2,
+   "rarity": "rare"
+  },
+  {
+   "name": "Beneath the Grounds",
+   "cost": 3,
+   "type": "Ability",
+   "class": "Rogue",
+   "attack": 0,
+   "health": 0,
+   "rarity": "epic"
+  },
+  {
+   "name": "Effigy",
+   "cost": 3,
+   "type": "Ability",
+   "class": "Mage",
+   "attack": 0,
+   "health": 0,
+   "rarity": "rare"
+  },
+  {
+   "name": "Healing Wave",
+   "cost": 3,
+   "type": "Ability",
+   "class": "Shaman",
+   "attack": 0,
+   "health": 0,
+   "rarity": "rare"
+  },
+  {
+   "name": "Polymorph: Boar",
+   "cost": 3,
+   "type": "Ability",
+   "class": "Mage",
+   "attack": 0,
+   "health": 0,
+   "rarity": "rare"
+  },
+  {
+   "name": "Seal of Champions",
+   "cost": 3,
+   "type": "Ability",
+   "class": "Paladin",
+   "attack": 0,
+   "health": 0,
+   "rarity": "common"
+  },
+  {
+   "name": "Coliseum Manager",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 5,
+   "rarity": "rare"
+  },
+  {
+   "name": "Dreadscale",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Hunter",
+   "attack": 4,
+   "health": 2,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Fencing Coach",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 2,
+   "rarity": "rare"
+  },
+  {
+   "name": "Ice Rager",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 5,
+   "health": 2,
+   "rarity": "common"
+  },
+  {
+   "name": "Master of Ceremonies",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 4,
+   "health": 2,
+   "rarity": "epic"
+  },
+  {
+   "name": "Saboteur",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 4,
+   "health": 3,
+   "rarity": "rare"
+  },
+  {
+   "name": "Shady Dealer",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Rogue",
+   "attack": 4,
+   "health": 3,
+   "rarity": "rare"
+  },
+  {
+   "name": "Silver Hand Regent",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 3,
+   "health": 3,
+   "rarity": "common"
+  },
+  {
+   "name": "Stablemaster",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Hunter",
+   "attack": 4,
+   "health": 2,
+   "rarity": "epic"
+  },
+  {
+   "name": "Warhorse Trainer",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Paladin",
+   "attack": 2,
+   "health": 4,
+   "rarity": "common"
+  },
+  {
+   "name": "Ancestral Knowledge",
+   "cost": 2,
+   "type": "Ability",
+   "class": "Shaman",
+   "attack": 0,
+   "health": 0,
+   "rarity": "common"
+  },
+  {
+   "name": "Bolster",
+   "cost": 2,
+   "type": "Ability",
+   "class": "Warrior",
+   "attack": 0,
+   "health": 0,
+   "rarity": "common"
+  },
+  {
+   "name": "Frost Giant",
+   "cost": 10,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 8,
+   "health": 8,
+   "rarity": "epic"
+  },
+  {
+   "name": "Anub'arak",
+   "cost": 9,
+   "type": "Minion",
+   "class": "Rogue",
+   "attack": 8,
+   "health": 4,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Icehowl",
+   "cost": 9,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 10,
+   "health": 10,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Rhonin",
+   "cost": 8,
+   "type": "Minion",
+   "class": "Mage",
+   "attack": 7,
+   "health": 7,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Captured Jormungar",
+   "cost": 7,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 5,
+   "health": 9,
+   "rarity": "common"
+  },
+  {
+   "name": "Confessor Paletress",
+   "cost": 7,
+   "type": "Minion",
+   "class": "Priest",
+   "attack": 5,
+   "health": 4,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Fearsome Doomguard",
+   "cost": 7,
+   "type": "Minion",
+   "class": "Warlock",
+   "attack": 6,
+   "health": 8,
+   "rarity": "common"
+  },
+  {
+   "name": "Skycap'n Kragg",
+   "cost": 7,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 4,
+   "health": 6,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Dark Bargain",
+   "cost": 6,
+   "type": "Ability",
+   "class": "Warlock",
+   "attack": 0,
+   "health": 0,
+   "rarity": "epic"
+  },
+  {
+   "name": "Bolf Ramshield",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 3,
+   "health": 9,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Grand Crusader",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 5,
+   "health": 5,
+   "rarity": "epic"
+  },
+  {
+   "name": "Kodorider",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 3,
+   "health": 5,
+   "rarity": "epic"
+  },
+  {
+   "name": "Mogor's Champion",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 8,
+   "health": 5,
+   "rarity": "rare"
+  },
+  {
+   "name": "Sea Reaver",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Warrior",
+   "attack": 6,
+   "health": 7,
+   "rarity": "epic"
+  },
+  {
+   "name": "The Mistcaller",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Shaman",
+   "attack": 4,
+   "health": 4,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Void Crusher",
+   "cost": 6,
+   "type": "Minion",
+   "class": "Warlock",
+   "attack": 5,
+   "health": 4,
+   "rarity": "rare"
+  },
+  {
+   "name": "Flame Lance",
+   "cost": 5,
+   "type": "Ability",
+   "class": "Mage",
+   "attack": 0,
+   "health": 0,
+   "rarity": "common"
+  },
+  {
+   "name": "Kvaldir Raider",
+   "cost": 5,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 4,
+   "health": 4,
+   "rarity": "common"
+  },
+  {
+   "name": "Nexus-Champion Saraad",
+   "cost": 5,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 4,
+   "health": 5,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Ram Wrangler",
+   "cost": 5,
+   "type": "Minion",
+   "class": "Hunter",
+   "attack": 3,
+   "health": 3,
+   "rarity": "rare"
+  },
+  {
+   "name": "Shado-Pan Rider",
+   "cost": 5,
+   "type": "Minion",
+   "class": "Rogue",
+   "attack": 3,
+   "health": 7,
+   "rarity": "common"
+  },
+  {
+   "name": "Tuskarr Jouster",
+   "cost": 5,
+   "type": "Minion",
+   "class": "Paladin",
+   "attack": 5,
+   "health": 5,
+   "rarity": "rare"
+  },
+  {
+   "name": "Poisoned Blade",
+   "cost": 4,
+   "type": "Weapon",
+   "class": "Rogue",
+   "attack": 1,
+   "health": 3,
+   "rarity": "epic"
+  },
+  {
+   "name": "Fist of Jaraxxus",
+   "cost": 4,
+   "type": "Ability",
+   "class": "Warlock",
+   "attack": 0,
+   "health": 0,
+   "rarity": "rare"
+  },
+  {
+   "name": "Crowd Favorite",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 4,
+   "health": 4,
+   "rarity": "epic"
+  },
+  {
+   "name": "Draenei Totemcarver",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Shaman",
+   "attack": 4,
+   "health": 4,
+   "rarity": "rare"
+  },
+  {
+   "name": "Evil Heckler",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 5,
+   "health": 4,
+   "rarity": "common"
+  },
+  {
+   "name": "Gormok the Impaler",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 4,
+   "health": 4,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Magnataur Alpha",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Warrior",
+   "attack": 5,
+   "health": 3,
+   "rarity": "epic"
+  },
+  {
+   "name": "Murloc Knight",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Paladin",
+   "attack": 3,
+   "health": 4,
+   "rarity": "common"
+  },
+  {
+   "name": "Savage Combatant",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Druid",
+   "attack": 5,
+   "health": 4,
+   "rarity": "rare"
+  },
+  {
+   "name": "Tournament Medic",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 1,
+   "health": 8,
+   "rarity": "common"
+  },
+  {
+   "name": "Wildwalker",
+   "cost": 4,
+   "type": "Minion",
+   "class": "Druid",
+   "attack": 4,
+   "health": 4,
+   "rarity": "common"
+  },
+  {
+   "name": "Bash",
+   "cost": 3,
+   "type": "Ability",
+   "class": "Warrior",
+   "attack": 0,
+   "health": 0,
+   "rarity": "common"
+  },
+  {
+   "name": "Burgle",
+   "cost": 3,
+   "type": "Ability",
+   "class": "Rogue",
+   "attack": 0,
+   "health": 0,
+   "rarity": "rare"
+  },
+  {
+   "name": "Elemental Destruction",
+   "cost": 3,
+   "type": "Ability",
+   "class": "Shaman",
+   "attack": 0,
+   "health": 0,
+   "rarity": "epic"
+  },
+  {
+   "name": "Mulch",
+   "cost": 3,
+   "type": "Ability",
+   "class": "Druid",
+   "attack": 0,
+   "health": 0,
+   "rarity": "epic"
+  },
+  {
+   "name": "Powershot",
+   "cost": 3,
+   "type": "Ability",
+   "class": "Hunter",
+   "attack": 0,
+   "health": 0,
+   "rarity": "rare"
+  },
+  {
+   "name": "Argent Horserider",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 1,
+   "rarity": "common"
+  },
+  {
+   "name": "Dragonhawk Rider",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 3,
+   "health": 3,
+   "rarity": "common"
+  },
+  {
+   "name": "Eydis Darkbane",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 3,
+   "health": 4,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Fjola Lightbane",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 3,
+   "health": 4,
+   "rarity": "legendary"
+  },
+  {
+   "name": "Light's Champion",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 4,
+   "health": 3,
+   "rarity": "rare"
+  },
+  {
+   "name": "Orgrimmar Aspirant",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Warrior",
+   "attack": 3,
+   "health": 3,
+   "rarity": "common"
+  },
+  {
+   "name": "Shadowfiend",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Priest",
+   "attack": 3,
+   "health": 3,
+   "rarity": "epic"
+  },
+  {
+   "name": "Silent Knight",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 2,
+   "rarity": "common"
+  },
+  {
+   "name": "Spellslinger",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Mage",
+   "attack": 3,
+   "health": 4,
+   "rarity": "common"
+  },
+  {
+   "name": "Tuskarr Totemic",
+   "cost": 3,
+   "type": "Minion",
+   "class": "Shaman",
+   "attack": 3,
+   "health": 2,
+   "rarity": "common"
+  },
+  {
+   "name": "Argent Lance",
+   "cost": 2,
+   "type": "Weapon",
+   "class": "Paladin",
+   "attack": 2,
+   "health": 2,
+   "rarity": "rare"
+  },
+  {
+   "name": "Bear Trap",
+   "cost": 2,
+   "type": "Ability",
+   "class": "Hunter",
+   "attack": 0,
+   "health": 0,
+   "rarity": "common"
+  },
+  {
+   "name": "Lock and Load",
+   "cost": 2,
+   "type": "Ability",
+   "class": "Hunter",
+   "attack": 0,
+   "health": 0,
+   "rarity": "epic"
+  },
+  {
+   "name": "Injured Kvaldir",
+   "cost": 1,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 4,
+   "rarity": "rare"
+  },
+  {
+   "name": "Tournament Attendee",
+   "cost": 1,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 1,
+   "rarity": "common"
+  },
+  {
+   "name": "Gadgetzan Jouster",
+   "cost": 1,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 1,
+   "health": 2,
+   "rarity": "common"
+  },
+  {
+   "name": "Flash Heal",
+   "cost": 1,
+   "type": "Ability",
+   "class": "Priest",
+   "attack": 0,
+   "health": 0,
+   "rarity": "common"
+  },
+  {
+   "name": "Living Roots",
+   "cost": 1,
+   "type": "Ability",
+   "class": "Druid",
+   "attack": 0,
+   "health": 0,
+   "rarity": "common"
+  },
+  {
+   "name": "Undercity Valiant",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Rogue",
+   "attack": 3,
+   "health": 2,
+   "rarity": "common"
+  },
+  {
+   "name": "King's Elekk",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Hunter",
+   "attack": 3,
+   "health": 2,
+   "rarity": "common"
+  },
+  {
+   "name": "Totem Golem",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Shaman",
+   "attack": 3,
+   "health": 4,
+   "rarity": "common"
+  },
+  {
+   "name": "Lance Carrier",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 1,
+   "health": 2,
+   "rarity": "common"
+  },
+  {
+   "name": "Brave Archer",
+   "cost": 1,
+   "type": "Minion",
+   "class": "Hunter",
+   "attack": 2,
+   "health": 1,
+   "rarity": "common"
+  },
+  {
+   "name": "Argent Watchman",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 4,
+   "rarity": "rare"
+  },
+  {
+   "name": "Flame Juggler",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 3,
+   "rarity": "common"
+  },
+  {
+   "name": "Wrathguard",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Warlock",
+   "attack": 4,
+   "health": 3,
+   "rarity": "common"
+  },
+  {
+   "name": "Alexstrasza's Champion",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Warrior",
+   "attack": 2,
+   "health": 3,
+   "rarity": "rare"
+  },
+  {
+   "name": "Druid of the Saber",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Druid",
+   "attack": 2,
+   "health": 1,
+   "rarity": "common"
+  },
+  {
+   "name": "Sparring Partner",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Warrior",
+   "attack": 3,
+   "health": 2,
+   "rarity": "rare"
+  },
+  {
+   "name": "Power Word: Glory",
+   "cost": 1,
+   "type": "Ability",
+   "class": "Priest",
+   "attack": 0,
+   "health": 0,
+   "rarity": "common"
+  },
+  {
+   "name": "Demonfuse",
+   "cost": 2,
+   "type": "Ability",
+   "class": "Warlock",
+   "attack": 0,
+   "health": 0,
+   "rarity": "common"
+  },
+  {
+   "name": "Garrison Commander",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 2,
+   "health": 3,
+   "rarity": "epic"
+  },
+  {
+   "name": "Confuse",
+   "cost": 2,
+   "type": "Ability",
+   "class": "Priest",
+   "attack": 0,
+   "health": 0,
+   "rarity": "epic"
+  },
+  {
+   "name": "Cutpurse",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Rogue",
+   "attack": 2,
+   "health": 2,
+   "rarity": "rare"
+  },
+  {
+   "name": "Arcane Blast",
+   "cost": 1,
+   "type": "Ability",
+   "class": "Mage",
+   "attack": 0,
+   "health": 0,
+   "rarity": "epic"
+  },
+  {
+   "name": "Buccaneer",
+   "cost": 1,
+   "type": "Minion",
+   "class": "Rogue",
+   "attack": 2,
+   "health": 1,
+   "rarity": "common"
+  },
+  {
+   "name": "Tiny Knight of Evil",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Warlock",
+   "attack": 3,
+   "health": 2,
+   "rarity": "rare"
+  },
+  {
+   "name": "Darnassus Aspirant",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Druid",
+   "attack": 2,
+   "health": 3,
+   "rarity": "rare"
+  },
+  {
+   "name": "Boneguard Lieutenant",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 3,
+   "health": 2,
+   "rarity": "common"
+  },
+  {
+   "name": "Lowly Squire",
+   "cost": 1,
+   "type": "Minion",
+   "class": "Neutral",
+   "attack": 1,
+   "health": 2,
+   "rarity": "common"
+  },
+  {
+   "name": "Competitive Spirit",
+   "cost": 1,
+   "type": "Ability",
+   "class": "Paladin",
+   "attack": 0,
+   "health": 0,
+   "rarity": "rare"
+  },
+  {
+   "name": "Wyrmrest Agent",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Priest",
+   "attack": 1,
+   "health": 4,
+   "rarity": "rare"
+  },
+  {
+   "name": "Convert",
+   "cost": 2,
+   "type": "Ability",
+   "class": "Priest",
+   "attack": 0,
+   "health": 0,
+   "rarity": "rare"
+  },
+  {
+   "name": "Fallen Hero",
+   "cost": 2,
+   "type": "Minion",
+   "class": "Mage",
+   "attack": 3,
+   "health": 2,
+   "rarity": "rare"
+  }
+ ]
+}

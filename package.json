@@ -1,0 +1,11 @@
+{
+  "name": "deckbuilder",
+  "version": "0.0.1",
+  "description": "proto deckbuilder for HS",
+  "main": "deckbuilder.js",
+  "author": "Mikael Danielsson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
