@@ -1,7 +1,7 @@
 Deckbuilder Prototype
 =============
 
-First draft of a deckbuilder idea for [Hearthstone] (https://playhearthstone.com/en-us/)
+First draft of a deckbuilder idea for [Hearthstone](https://playhearthstone.com/en-us/)
 
 Written in purely javasript to get more familiar with html canvas, very WIP
 
